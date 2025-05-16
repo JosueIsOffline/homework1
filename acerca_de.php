@@ -349,21 +349,21 @@
                 <div class="projects">
                     <div class="project-item">
                         <div class="project-info">
-                            <h3><a href="https://github.com/JosueIsOffline/finance-platform">Finance Platform</a></h3>
+                            <h3><a href="https://github.com/JosueIsOffline/finance-platform" target="_blank">Finance Platform</a></h3>
                             <p>Finance SaaS Platform With Nextjs, React, Honojs with CSV</p>
                         </div>
                     </div>
                     
                     <div class="project-item">
                         <div class="project-info">
-                        <h3><a href="https://github.com/JosueIsOffline/ai-dino">IA Dino</a></h3>
+                        <h3><a href="https://github.com/JosueIsOffline/ai-dino" target="_blank">IA Dino</a></h3>
                             <p>Simple Google Dino Game With Neural Network (wip)</p>
                         </div>
                     </div>
                     
                     <div class="project-item">
                         <div class="project-info">
-                        <h3><a href="https://github.com/JosueIsOffline/clarencebot">Clarence Bot</a></h3>
+                        <h3><a href="https://github.com/JosueIsOffline/clarencebot" target="_blank">Clarence Bot</a></h3>
                             <p>larenceBot es un bot de discord creado para servir en un servidor de discord llamado “Dominican Devs”</p>
                         </div>
                     </div>
