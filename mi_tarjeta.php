@@ -160,7 +160,5 @@
             <a href="index.php" class="btn-back">Volver al Menú Principal</a>
         </div>
     </div>
-    
-    <?php include './partials/footer.php'; ?>
 </body>
 </html>
